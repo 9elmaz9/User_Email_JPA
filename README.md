@@ -1,4 +1,4 @@
-# Many-To-One/One-To-Many Relationship Example
+# Many-To-One/One-To-Many Relationship 
 
 ![Relationship Visualization](https://i.pinimg.com/originals/66/9a/b9/669ab90dfd28b32c45430d27eea0882f.png)
 This project illustrates a Many-To-One/One-To-Many relationship between User and EmailAddress objects in Java.
